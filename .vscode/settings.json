@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Dracula Soft",
+  "workbench.iconTheme": "vscode-icons",
+  "prettier.eslintIntegration": true,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 13,
+  "javascript.format.enable": false,
+  "window.zoomLevel": 1
+}
